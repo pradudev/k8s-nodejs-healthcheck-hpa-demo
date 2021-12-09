@@ -1,0 +1,6 @@
+combined.log
+Dockerfile
+health-status.txt
+mem-iteration-count.txt
+node_modules/
+helm-charts/
